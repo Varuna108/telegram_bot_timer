@@ -1,5 +1,5 @@
 timer3
 python-telegram-bot
-cryptography==2.5
+cryptography==3.2
 pytimeparse==1.1.8
 
